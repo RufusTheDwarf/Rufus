@@ -36,7 +36,7 @@ Pas de contenu sponsorisé. Pas de solution "freemium" avec un mur payant caché
 | *(à venir)* VPN personnel gratuit | Créer son propre VPN sur infrastructure cloud gratuite | `WireGuard` `Oracle Cloud` |
 | *(à venir)* Bot Discord auto-hébergé | Faire tourner un bot 24/7 sans abonnement | `Python` `Railway` `Render` |
 
-> 💡 **Vous avez une idée de guide ?** Ouvrez une [Issue](../../issues/new) — si la solution existe et est gratuite, je la documente.
+> 💡 **Vous avez une idée de guide ?** Ouvrez une [Issue](../../issues/new) si la solution existe et est gratuite, je la documente.
 
 ---
 
