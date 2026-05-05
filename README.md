@@ -57,11 +57,11 @@ Pas de contenu sponsorisé. Pas de solution "freemium" avec un mur payant caché
 Chaque guide publié sur ce dépôt respecte les critères suivants :
 
 - ✅ **Testé de A à Z** avant publication, sur une machine vierge
-- ✅ **Zéro prérequis supposé** — chaque concept inconnu est expliqué la première fois qu'il apparaît
-- ✅ **Vérification à chaque étape critique** — vous savez toujours si vous êtes sur la bonne voie
-- ✅ **Section dépannage incluse** — les erreurs les plus fréquentes sont anticipées et documentées
+- ✅ **Zéro prérequis supposé** chaque concept inconnu est expliqué la première fois qu'il apparaît
+- ✅ **Vérification à chaque étape critique** vous savez toujours si vous êtes sur la bonne voie
+- ✅ **Section dépannage incluse** les erreurs les plus fréquentes sont anticipées et documentées
 - ✅ **Mis à jour** lors de changements majeurs des outils concernés
-- ✅ **Entièrement gratuit** — aucune étape ne requiert un abonnement ou un achat
+- ✅ **Entièrement gratuit** aucune étape ne requiert un abonnement ou un achat
 
 ---
 
