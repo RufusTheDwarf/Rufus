@@ -11,7 +11,7 @@
 
 > **Rendre accessible ce qui est normalement réservé à ceux qui peuvent payer.**
 
-Je crée des **guides techniques complets et gratuits** à destination de toute personne souhaitant héberger, automatiser ou déployer des outils — sans budget, sans expérience préalable en ligne de commande, et sans compromis sur la qualité.
+Je crée des **guides techniques complets et gratuits** à destination de toute personne souhaitant héberger, automatiser ou déployer des outils sans budget, sans expérience préalable en ligne de commande, et sans compromis sur la qualité.
 
 Chaque tutoriel publié ici est le fruit d'une recherche approfondie sur les meilleures solutions libres disponibles, documentées de façon à ce qu'un débutant absolu puisse les reproduire, étape par étape, sans se perdre.
 
@@ -19,7 +19,7 @@ Chaque tutoriel publié ici est le fruit d'une recherche approfondie sur les mei
 
 ## 🧭 Philosophie
 
-La barrière entre une personne qui *sait faire* et une personne qui *voudrait savoir faire* est, la plupart du temps, l'absence d'une documentation claire et honnête — pas un manque de capacité.
+La barrière entre une personne qui *sait faire* et une personne qui *voudrait savoir faire* est, la plupart du temps, l'absence d'une documentation claire et honnête pas un manque de capacité.
 
 Ce dépôt est une tentative de combler cet écart.
 
@@ -80,7 +80,7 @@ Consultez [CONTRIBUTING.md](./CONTRIBUTING.md) pour les détails.
 
 ## 📜 Licence
 
-Tous les guides et scripts de ce profil sont publiés sous licence **MIT** — vous êtes libre de les utiliser, les modifier et les redistribuer, y compris commercialement, à condition de conserver la mention d'origine.
+Tous les guides et scripts de ce profil sont publiés sous licence **MIT** vous êtes libre de les utiliser, les modifier et les redistribuer, y compris commercialement, à condition de conserver la mention d'origine.
 
 ---
 
